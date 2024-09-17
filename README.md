@@ -1,5 +1,5 @@
 ![logo](https://github.com/craigz28/firmwalker/blob/master/firmwalker-logo.jpg)
-# firmwalker
+# firmwalkerPlusPlus
 A simple bash  script for searching the extracted or mounted firmware file system.
 
 It will search through the extracted or mounted firmware file system for things of interest such as:

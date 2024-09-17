@@ -1,0 +1,13 @@
+ssh
+sshd
+scp
+sftp
+tftp
+tftpd
+dropbear
+busybox
+telnet
+telnetd
+openssl
+rc
+init

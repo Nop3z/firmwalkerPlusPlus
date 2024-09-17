@@ -1,0 +1,6 @@
+passwd
+shadow
+*.psk
+password.htm
+image_sign
+fw_sign

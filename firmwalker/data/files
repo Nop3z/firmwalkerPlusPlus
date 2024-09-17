@@ -1,0 +1,9 @@
+*.conf
+*.cfg
+*.ini
+*.cgi
+rcS
+currentsetting.htm
+inittab
+init.d
+init0.d
